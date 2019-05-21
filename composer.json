@@ -1,0 +1,11 @@
+{
+    "name": "hosein/galleries",
+    "description": "this is package galleries",
+    "authors": [
+        {
+            "name": "HosseinDehghan",
+            "email": "h.dehghan72@yahoo.com"
+        }
+    ],
+    "require": {}
+}

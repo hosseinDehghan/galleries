@@ -7,5 +7,10 @@
             "email": "h.dehghan72@yahoo.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Hosein\\Galleries\\": "src/"
+        }
+    },
     "require": {}
 }
